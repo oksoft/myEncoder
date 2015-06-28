@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For myEncoder
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+myEncoder	KEYWORD1	myEncoderLibrary
+CEncoder	KEYWORD1	CEncoderConstructor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# CEncoder Class
+check	KEYWORD2
+button_down	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#FILE_READ	LITERAL1
+#FILE_WRITE	LITERAL1
+#FILE_APPEND	LITERAL1
